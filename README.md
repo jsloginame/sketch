@@ -1,2 +1,2 @@
 # sketch
-Building a etch-a-sketch with javascript/html/css.
+Building a faux etch-a-sketch on a browser using a combination of jquery/html/css.
